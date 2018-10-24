@@ -7,7 +7,7 @@ Part of [Microsoft Professional Program in Data Science](https://www.edx.org/mic
 | 1. Python Basics |  |  | ![](http://progressed.io/bar/100) |
 | 2. List - A Data Structure |  |  | ![](http://progressed.io/bar/100) |
 | 3. Functions and Packages |  |  | ![](http://progressed.io/bar/100) |
-| 4. Numpy |  |  | ![](http://progressed.io/bar/90) |
+| 4. Numpy | 2018-10-23 |  | ![](http://progressed.io/bar/90) |
 | 5. Plotting with Matplotlib |  |  | ![](http://progressed.io/bar/0) |
 | 6. Control Flow and Pandas |  |  | ![](http://progressed.io/bar/0) |
 | 7. Final Lab |  |  | ![](http://progressed.io/bar/0) |
