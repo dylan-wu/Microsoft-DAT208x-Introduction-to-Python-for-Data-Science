@@ -4,6 +4,7 @@ Part of [Microsoft Professional Program in Data Science](https://www.edx.org/mic
 
 Start Here
 | Chapter | Plan | Done |
+|---------|------|------|
 | 1. Python Basics |  |  |
 | 2. List - A Data Structure |  |  |
 | 3. Functions and Packages |  |  |
