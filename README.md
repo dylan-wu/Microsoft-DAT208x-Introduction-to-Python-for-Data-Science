@@ -2,7 +2,6 @@
 
 Part of [Microsoft Professional Program in Data Science](https://www.edx.org/microsoft-professional-program-data-science)
 
-Start Here
 | Chapter | Plan | Done |
 |---------|------|------|
 | 1. Python Basics |  |  |
