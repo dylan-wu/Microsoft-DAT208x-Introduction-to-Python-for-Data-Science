@@ -29,3 +29,7 @@ print(check)
 
 </p>
 </details>
+
+| Date | Duration | 1 | 2 | 3 |
+|------|----------|---|---|---|
+| 2018-10-25 | 5 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
