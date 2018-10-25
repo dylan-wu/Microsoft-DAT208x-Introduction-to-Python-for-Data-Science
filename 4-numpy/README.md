@@ -15,3 +15,5 @@
 <img src="https://user-images.githubusercontent.com/6586811/47456948-6ccbd300-d79b-11e8-9adf-d17eeb74c3f0.png" width="550">
 
 ## 4.3 Basic Statistics with Numpy
+
+<img src="https://user-images.githubusercontent.com/6586811/47514357-c557aa80-d845-11e8-8cbd-a8b53212d785.png" width="550">
