@@ -38,3 +38,4 @@ print(100*1.1**7)
 | Date | Duration | 1 | 2 | 3 |
 |------|----------|---|---|---|
 | 2018-10-24 | 1 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 2018-10-25 | 1 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
