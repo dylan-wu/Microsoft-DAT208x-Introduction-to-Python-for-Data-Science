@@ -4,11 +4,11 @@ Part of [Microsoft Professional Program in Data Science](https://www.edx.org/mic
 
 | Section | Start Date | End Date | Progress |
 |---------|------------|----------|----------|
-| 1. Python Basics | 2018-10-22 | 2018-10-23 | ![](http://progressed.io/bar/100) |
-| 2. List - A Data Structure | 2018-10-22 | 2018-10-23 | ![](http://progressed.io/bar/100) |
-| 3. Functions and Packages | 2018-10-22 | 2018-10-23 | ![](http://progressed.io/bar/100) |
-| 4. Numpy | 2018-10-23 |  | ![](http://progressed.io/bar/90) |
-| 5. Plotting with Matplotlib |  |  | ![](http://progressed.io/bar/0) |
-| 6. Control Flow and Pandas |  |  | ![](http://progressed.io/bar/0) |
-| 7. Final Lab |  |  | ![](http://progressed.io/bar/0) |
-| 8. Final Exam and Course Wrap-up |  |  | ![](http://progressed.io/bar/0) |
+| [1. Python Basics](1-python-basics.md) | 2018-10-22 | 2018-10-23 | ![](http://progressed.io/bar/100) |
+| [2. List - A Data Structure](2-list-a-data-structure) | 2018-10-22 | 2018-10-23 | ![](http://progressed.io/bar/100) |
+| [3. Functions and Packages](3-functions-and-packages) | 2018-10-22 | 2018-10-23 | ![](http://progressed.io/bar/100) |
+| [4. Numpy](4-numpy) | 2018-10-23 |  | ![](http://progressed.io/bar/90) |
+| [5. Plotting with Matplotlib](5-plotting-with-matplotlib) |  |  | ![](http://progressed.io/bar/0) |
+| [6. Control Flow and Pandas](6-control-flow-and-pandas) |  |  | ![](http://progressed.io/bar/0) |
+| [7. Final Lab](7-final-lab) |  |  | ![](http://progressed.io/bar/0) |
+| [8. Final Exam and Course Wrap-up](8-final-exam-and-course-wrap-up) |  |  | ![](http://progressed.io/bar/0) |
