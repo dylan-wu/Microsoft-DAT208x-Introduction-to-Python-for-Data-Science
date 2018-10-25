@@ -4,7 +4,7 @@
 |---------|------------|----------|----------|
 | 4.1 Numpy |  |  | ![](http://progressed.io/bar/100) |
 | 4.2 2D Numpy Arrays |  |  | ![](http://progressed.io/bar/100) |
-| 4.3 Basic Statistics with Numpy |  |  | ![](http://progressed.io/bar/0) |
+| [4.3 Basic Statistics with Numpy]() |  |  | ![](http://progressed.io/bar/0) |
 
 ## 4.1 Numpy
 
