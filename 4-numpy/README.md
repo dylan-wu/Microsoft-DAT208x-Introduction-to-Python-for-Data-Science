@@ -2,8 +2,8 @@
 
 | Section | Start Date | End Date | Progress |
 |---------|------------|----------|----------|
-| 4.1 Numpy |  |  | ![](http://progressed.io/bar/100) |
-| 4.2 2D Numpy Arrays |  |  | ![](http://progressed.io/bar/100) |
+| [4.1 Numpy](#41-numpy) |  |  | ![](http://progressed.io/bar/100) |
+| [4.2 2D Numpy Arrays](#42-2d-numpy-arrays) |  |  | ![](http://progressed.io/bar/100) |
 | [4.3 Basic Statistics with Numpy](#43-basic-statistics-with-numpy) |  |  | ![](http://progressed.io/bar/0) |
 
 ## 4.1 Numpy
