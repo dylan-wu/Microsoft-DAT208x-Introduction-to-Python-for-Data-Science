@@ -22,8 +22,9 @@ print(num)
 ```python
 import numpy as np
 
-num = np.array([180, 215, 210, 210, 188, 176, 209, 200] > 200)
-print(num)
+num = np.array([180, 215, 210, 210, 188, 176, 209, 200])
+check = num > 200
+print(check)
 ```
 
 </p>
