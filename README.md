@@ -8,7 +8,7 @@ Part 6b of [Microsoft Professional Program in Data Science](https://github.com/d
 | [2. List - A Data Structure](2-list-a-data-structure) | 2018-10-22 | 2018-10-23 | ![](http://progressed.io/bar/100) |
 | [3. Functions and Packages](3-functions-and-packages) | 2018-10-22 | 2018-10-23 | ![](http://progressed.io/bar/100) |
 | [4. Numpy](4-numpy) | 2018-10-23 | 2018-10-25 | ![](http://progressed.io/bar/100) |
-| [5. Plotting with Matplotlib](5-plotting-with-matplotlib) |  |  | ![](http://progressed.io/bar/0) |
-| [6. Control Flow and Pandas](6-control-flow-and-pandas) |  |  | ![](http://progressed.io/bar/0) |
-| [7. Final Lab](7-final-lab) |  |  | ![](http://progressed.io/bar/0) |
-| [8. Final Exam and Course Wrap-up](8-final-exam-and-course-wrap-up) |  |  | ![](http://progressed.io/bar/0) |
+| [5. Plotting with Matplotlib](5-plotting-with-matplotlib) |  |  | ![](http://progressed.io/bar/100) |
+| [6. Control Flow and Pandas](6-control-flow-and-pandas) |  |  | ![](http://progressed.io/bar/100) |
+| [7. Final Lab](7-final-lab) |  |  | ![](http://progressed.io/bar/100) |
+| [8. Final Exam and Course Wrap-up](8-final-exam-and-course-wrap-up) |  |  | ![](http://progressed.io/bar/100) |
