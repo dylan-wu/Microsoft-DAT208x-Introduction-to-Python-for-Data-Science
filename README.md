@@ -1,6 +1,6 @@
 # [Microsoft DAT208x Introduction to Python for Data Science](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+3T2018/course/#block-v1:Microsoft+DAT208x+3T2018+type@chapter+block@0f10a306d95945e886626db797e4b2f5)
 
-Part 6b of [Microsoft Professional Program in Data Science](https://www.edx.org/microsoft-professional-program-data-science)
+Part 6b of [Microsoft Professional Program in Data Science](https://github.com/dylan-wu/Microsoft-Professional-Program-in-Data-Science)
 
 | Section | Start Date | End Date | Progress |
 |---------|------------|----------|----------|
