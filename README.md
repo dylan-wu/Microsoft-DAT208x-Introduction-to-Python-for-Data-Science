@@ -10,5 +10,5 @@ Part 6b of [Microsoft Professional Program in Data Science](https://github.com/d
 | [4. Numpy](4-numpy) | 2018-10-23 | 2018-10-25 | ![](http://progressed.io/bar/100) |
 | [5. Plotting with Matplotlib](5-plotting-with-matplotlib.md) | 2018-10-30 | 2018-10-31 | ![](http://progressed.io/bar/100) |
 | [6. Control Flow and Pandas](6-control-flow-and-pandas.md) | 2018-10-31 | 2018-10-31 | ![](http://progressed.io/bar/100) |
-| [7. Final Lab](7-final-lab.md) |  |  | ![](http://progressed.io/bar/0) |
+| [7. Final Lab](7-final-lab.md) |  |  | ![](http://progressed.io/bar/50) |
 | [8. Final Exam and Course Wrap-up](8-final-exam-and-course-wrap-up.md) |  |  | ![](http://progressed.io/bar/0) |
